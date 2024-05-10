@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Malaysia Aviation Group</title>
+    <style>
+        /* Basic CSS styling */
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #007bff;
+            color: #fff;
+            padding: 10px;
+            text-align: center;
+        }
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 0 20px;
+        }
+        h1, h2 {
+            text-align: center;
+        }
+        p {
+            text-align: justify;
+        }
+        .logo {
+            display: block;
+            margin: 0 auto;
+            max-width: 200px; /* Adjust the width as needed */
+        }
+        /* Style the top navigation bar */
+        .topnav {
+            overflow: hidden;
+            background-color: #333;
+        }
+
+        /* Style the topnav links */
+        .topnav a {
+            float: left;
+            display: block;
+            color: #f2f2f2;
+            text-align: center;
+            padding: 14px 16px;
+            text-decoration: none;
+        }
+
+        /* Change color on hover */
+        .topnav a:hover {
+            background-color: #ddd;
+            color: black;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <img src="https://www.malaysiaairlines.com/content/dam/mh/my/en/about-us/malaysia-aviation-group/mag-640x360.png" alt="Company Logo" class="logo">
+        <h1>Malaysia Aviation Group</h1>
+        <div class="topnav">
+            <a href="#">Link</a>
+            <a href="#">Link</a>
+            <a href="#">Link</a>
+        </div>
+    </header>
+    <div class="container">
+        <h2>About us</h2>
+        <p>Welcome to our website showcasing malaysia's innovative aviation. Our group is designed to revolutionize the aviation industry by...</p>
+        
+        <h2>Features</h2>
+        <ul>
+            <li>Feature 1</li>
+            <li>Feature 2</li>
+            <li>Feature 3</li>
+            <!-- Add more features here -->
+        </ul>
+        
+        <h2>Work</h2>
+        <ul>
+            <li>Work 1</li>
+            <li>Work 2</li>
+            <li>Work 3</li>
+            <!-- Add more benefits here -->
+        </ul>
+        
+        <h2>Contact Us</h2>
+        <p>If you have any inquiries or would like to know more about our product, please feel free to contact us:</p>
+        <p>Email: info@yourcompany.com</p>
+        <p>Phone: +1234567890</p>
+        <p>MAG Town Office<br>
+        R-01, 3rd Floor Citta Mall,<br>
+        No. 1, Jalan PJU 1a/48,<br>
+        Ara Damansara,<br>
+        47301 Petaling Jaya, Selangor</p>
+        <p>Business Hours: 8:30 am - 5:30 pm (Monday to Friday)</p>
+    </div>
+</body>
+</html>
